@@ -9,7 +9,7 @@
 }
 
 .main-login {
-    width: 100vw;/*viewport widht*/
+    width: 100vw;/*viewport width*/
     height: 100vh;/*viewport height*/
     background: linear-gradient(68.15deg, #000000 16.62%, #861C2F 70%);
     display: flex;
